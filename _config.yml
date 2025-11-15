@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Yan Wang"
+title                    : "Home"
 title_separator          : "-"
 name                     : &name "Yan Wang"
-description              : &description "research fellow in experimental finance"
+description              : &description "assistant professor in experimental finance"
 url                      : https://wangyan-econ.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "wangyan-econ/wangyan-econ.github.io"
