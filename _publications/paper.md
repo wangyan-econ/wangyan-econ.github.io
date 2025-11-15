@@ -1,5 +1,3 @@
----
-
 ## Publications
   *AY2020-21 (Semester 2)*
   *Teaching evaluation: 4.68/5*
