@@ -13,4 +13,4 @@ I'm an Assistant Professor in the School of Economics at Fudan University. I ear
 
 <br> My research interests lie in behavioral and experimental economics, with a particular focus on experimental asset markets and market microstructure.
 
-Feel free to contact me at: 
+<br> Feel free to contact me at: 
