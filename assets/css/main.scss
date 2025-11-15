@@ -64,9 +64,17 @@ h1, h2, h3, h4, h5, h6 {
 .sidebar,
 .sidebar * ,
 .author__content,
-.author__content * ,
-.author__urls-wrapper,
-.author__urls-wrapper * {
-  font-family: "Times New Roman", Times, serif !important;
+.author__content *:not(i),
+.author__urls-wrapper span,
+.author__urls-wrapper a {
+  font-family: "Times New Roman", Times, serif;
 }
 
+/* === Restore Font Awesome icons === */
+.fa,
+.fab,
+.far,
+.fas {
+  font-family: "Font Awesome 5 Free" !important;
+  font-weight: 900 !important;   /* solid style */
+}
