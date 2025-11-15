@@ -7,7 +7,8 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Welcome to my website!
+
+<br> Welcome to my website!
 
 I'm an Assistant Professor in the School of Economics at Fudan University. I earned my Ph.D. in Economics from Nanyang Technological University in April 2024. 
 
