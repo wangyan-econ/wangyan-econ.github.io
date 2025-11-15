@@ -1,4 +1,4 @@
----
+
 ## Publications
   [**How Dark Trading Harms Financial Markets**](https://academic.oup.com/ej/article-abstract/135/669/1711/7984482?redirectedFrom=fulltext) (with Edward Halim, Yohanes E. Riyanto and Nilanjan Roy), **_Economic Journal_**, 2025
   
