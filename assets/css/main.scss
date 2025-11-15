@@ -68,3 +68,18 @@ h1, h2, h3, h4, h5, h6 {
 .navbar-nav .nav-link {
   font-family: "Georgia", "Times New Roman", serif;
 }
+/* Top navigation bar: site name + menu items */
+.navbar,
+.navbar *,
+.navbar-brand,
+.navbar-nav,
+.navbar-nav .nav-item,
+.navbar-nav .nav-link {
+  font-family: "Times New Roman", Times, serif !important;
+}
+
+/* Left sidebar/profile card */
+.profile,
+.profile * {
+  font-family: "Times New Roman", Times, serif !important;
+}
