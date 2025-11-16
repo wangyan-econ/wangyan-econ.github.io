@@ -12,6 +12,6 @@ redirect_from:
 
 I'm an Assistant Professor in the School of Economics at Fudan University. I earned my Ph.D. in Economics from Nanyang Technological University in April 2024. 
 
-My research interests lie in behavioral and experimental economics, with a particular focus on experimental asset markets and market microstructure.
+My research interests lie in behavioral and experimental finance, with a particular focus on experimental asset markets and market microstructure.
 
 <br> Feel free to contact me at: 
