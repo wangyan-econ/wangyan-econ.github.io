@@ -81,3 +81,8 @@ h1, h2, h3, h4, h5, h6 {
   font-weight: 900 !important;   /* solid style */
 }
 
+.author__avatar img {
+  filter: saturate(1.15) hue-rotate(5deg);
+}
+
+
