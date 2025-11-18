@@ -14,4 +14,4 @@ I'm an Assistant Professor in the School of Economics at Fudan University. I ear
 
 My research interests lie in behavioral and experimental finance, with a particular focus on experimental asset markets and market microstructure.
 
-<br> Feel free to contact me at: wangyan_fd@fudan.edu.cn
+<br> Feel free to contact me at: [wangyan_fd@fudan.edu.cn](mailto:wangyan_fd@fudan.edu.cn)
