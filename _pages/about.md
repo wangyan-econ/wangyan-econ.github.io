@@ -10,7 +10,7 @@ redirect_from:
 
 <br> Welcome to my website!
 
-I'm an Assistant Professor in the School of Economics at Fudan University. I earned my Ph.D. in Economics from the School of Social Sciences at Nanyang Technological University. 
+I'm an Assistant Professor in the School of Economics at Fudan University. I received my Ph.D. in Economics from the School of Social Sciences at Nanyang Technological University. 
 
 My research interests lie in behavioral and experimental finance, with a particular focus on experimental asset markets and market microstructure.
 
