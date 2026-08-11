@@ -1,22 +1,15 @@
 ---
-title: Nanyang Technological University, Singapore 
+title: Fudan University
 ---
 
 ---
 
-## HE 9091 Principles of Economics, Tutor  
-  *AY2020-21 (Semester 2)*
-  *Teaching evaluation: 4.68/5*
+## MDE60004 Introduction to the Frontiers of Digital Technology 
+  
+  *AY2025-26 (Semester 2)*
   
 ---
   
-## HE 1001 Microeconomics I, Tutor    
-  *AY2021-22 (Semester 1)*
-  *Teaching evaluation: 4.67/5*
-  
----
+## ECON30141 Intermediate Microeconomics   
+  *AY2026-27 (Semester 1)*
 
-## HE 2002 Macroeconomics II, Tutor   
-  *AY2020-21 (Semester 2)*
-  *Teaching evaluation: 4.82/5 (Best Teaching Assistant Award)*
-  
